@@ -65,7 +65,7 @@
 
     <name>Virava Backend Common</name>
     <description>Library with common DTOs for Virava Access Management</description>
-    <url>https://dev.azure.com/cleverpine/Virava%20Solution/_git/virava-backend-common</url>
+    <url>https://github.com/cleverpine/virava-backend-common</url>
 
     <licenses>
         <license>
@@ -95,9 +95,9 @@
     </distributionManagement>
 
     <scm>
-        <connection>https://dev.azure.com/cleverpine/Virava%20Solution/_git/virava-backend-common</connection>
-        <developerConnection>git@ssh.dev.azure.com:v3/cleverpine/Virava%20Solution/virava-backend-common</developerConnection>
-        <url>https://dev.azure.com/cleverpine/Virava%20Solution/_git/virava-backend-common</url>
+        <connection>https://github.com/cleverpine/virava-backend-common</connection>
+        <developerConnection>git@github.com:cleverpine/virava-backend-common.git</developerConnection>
+        <url>https://github.com/cleverpine/virava-backend-common</url>
     </scm>
 
     <profiles>
