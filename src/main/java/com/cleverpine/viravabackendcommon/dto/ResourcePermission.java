@@ -67,4 +67,9 @@ public class ResourcePermission {
         }
         this.ids.removeAll(ids);
     }
+
+    public void setIds(Collection<String> ids) {
+        this.ids.clear();
+        addIds(ids);
+    }
 }

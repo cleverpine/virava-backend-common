@@ -72,6 +72,10 @@ public class User {
         return resourcePermissions.getResourcePermission(resource);
     }
 
+    public void setResourcePermissions(ResourcePermissions resourcePermissions) {
+        this.resourcePermissions = resourcePermissions;
+    }
+
     public void addData(String key, String value) {
         if (key == null || value == null) {
             return;
